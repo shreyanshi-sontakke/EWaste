@@ -18,16 +18,21 @@ export default props => {
                 <RiHomeLine className="menu-logo"/> Home
             </Link>
 
+            <Link className="menu-item" to="/cities">
+                <RiHomeLine className="menu-logo"/> Cities Covered
+            </Link>
+
             <Link className="menu-item" to="/about">
                 <BsPerson className="menu-logo"/> About
             </Link>
 
             <Link className="menu-item" to="/contact">
-                <IoCallOutline className="menu-logo"/> Contact
+                <IoCallOutline className="menu-logo"/>
+                Contact 
             </Link>
 
-            <Link className="menu-item" href="/information">
-                <IoIosInformationCircleOutline className="menu-logo"/> Information
+            <Link className="menu-item" to="/JoinUs">
+                <IoIosInformationCircleOutline className="menu-logo"/> Join us!
             </Link>
         </Menu>
     );
