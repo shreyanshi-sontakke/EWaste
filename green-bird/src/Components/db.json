@@ -1,0 +1,227 @@
+ {"ewaste-collectors": [ 
+    {
+      "id": 1,
+      "title": "Mahavir E waste shop",
+      "district": "Mumbai",
+      "Address": "Shop No. 9, Sadguru Bhavan, Mithagar Road, Mulund East, Mumbai - 400081, Near Apna Bazaar Railway",
+      "Contact1": 7947227150,
+      "Contact2": ""
+    },
+    {
+      "id": 2,
+      "title": "A S Multi traders",
+      "district": "Mumbai",
+      "Address": "3rd-Floor, D-303, M K Residency Buiding, Budha Colony,SG Barve Marg, Kurla West,Mumbai - 400070",
+      "Contact1": 7947192534,
+      "Contact2": ""
+    },
+    {
+      "id": 3,
+      "title": "The  Scrappy",
+      "district": "Mumbai",
+      "Address": "Shop 4, Manali Apartment, LBS Road, Ishwar Nagar-Bhandup West, Mumbai - 400078, Opp Dena Bank",
+      "Contact1": 7947179307,
+      "Contact2": ""
+    },
+    {
+      "id": 4,
+      "title": "Garib nawaz solutions",
+      "district": "Mumbai",
+      "Address": "Kashi Kunj, Plot No:209, Waterfield Road, Bandra West, Mumbai - 400050",
+      "Contact1": 7947193268,
+      "Contact2": ""
+    },
+    {
+      "id": 5,
+      "title": "Brp Infotech Pvt Ltd",
+      "district": "Mumbai",
+      "Address": "Plot No F-394 & 381 Phase -1, Industrial Area, M G Road, Hapur Ho, Hapur - 245101",
+      "Contact1": 7947355674,
+      "Contact2": ""
+    },
+    {
+      "id": 6,
+      "title": "Arshee Enterprises",
+      "district": "Mumbai",
+      "Address": "Shop No 6, Kurla Andheri Road, Andheri East, Mumbai - 400072, Near Maxus Mall",
+      "Contact1": 7947057046,
+      "Contact2": ""
+    },
+    {
+      "id": 7,
+      "title": "A S Infratech",
+      "district": "Mumbai",
+      "Address": "Pestom Sagar Road No 4 opp Megdoot building chembur west ,Mumbai-400089",
+      "Contact1": 7947192343,
+      "Contact2": ""
+    },
+    {
+      "id": 8,
+      "title": "Ambika Computer",
+      "district": "Mumbai",
+      "Address": "Doctor Compound, Lalbaug Road, Parel, Mumbai - 400012",
+      "Contact1": 7947246507,
+      "Contact2": ""
+    },
+    {
+      "id": 9,
+      "title": "New Mumbai Scrap Marchants",
+      "district": "Mumbai",
+      "Address": "Sector No-9, Vashi Sector 9, Navi Mumbai - 400703, Near -APMC Market",
+      "Contact1": 8045795125,
+      "Contact2": ""
+    },
+    {
+      "id": 10,
+      "title": "S. N computer scrap",
+      "district": "Mumbai",
+      "Address": "Gala No. 8, Shiv Shakti Comp Netaji Nagar Khadi, No. 3, 90 Feet Rd, Kurla West, Mumbai,",
+      "Contact1": 9920792738,
+      "Contact2": ""
+    },
+    {
+      "id": 11,
+      "title": "M R Metal Scrap Enterprises",
+      "district": "Aurangabad",
+      "Address": "Imam Ahmad Raza Road, Champa Chowk, Aurangabad-Maharashtra - 431003, Opposite Milan Milk Dairy",
+      "Contact1": 9359025550,
+      "Contact2": 7972813095
+    },
+    {
+      "id": 12,
+      "title": "Sr Scrap",
+      "district": "Aurangabad",
+      "Address": "Taj Bhandi Bhandar, Makai Gate Road, Aurangabad Ho, Aurangabad-Maharashtra - 431001",
+      "Contact1": 9689450753,
+      "Contact2": 8482981955
+    },
+    {
+      "id": 13,
+      "title": "Yes Industries",
+      "district": "Aurangabad",
+      "Address": "Gat No. 80, Shendra Midc Road, Naregaon, Aurangabad-Maharashtra - 431007, Cambridge Bypass Road",
+      "Contact1": 9730636461,
+      "Contact2": 9371517171
+    },
+    {
+      "id": 14,
+      "title": "T.Z. Construction Company",
+      "district": "Aurangabad",
+      "Address": "Office No-5, Safiya Mension, Sanjay Nagar, Jinsi Police Station Road, Aurangabad Ho, Aurangabad-Maharashtra - 431001, Near Water Tank",
+      "Contact1": 9923601919,
+      "Contact2": 9764989988
+    },
+    {
+      "id": 15,
+      "title": "Hm Waste Management Pvt Ltd",
+      "district": "Aurangabad",
+      "Address": "Karol Bagh",
+      "Contact1": 7947236653,
+      "Contact2": ""
+    },
+    {
+      "id": 16,
+      "title": "Kachhi Eco Plastic",
+      "district": "Aurangabad",
+      "Address": "Budhawar Naka",
+      "Contact1": 7947317236,
+      "Contact2": ""
+    },
+    {
+      "id": 17,
+      "title": "E Waste Recyclers INDIA",
+      "district": "Pune",
+      "Address": "Plot No-20a Sec-23, Transport Nagar-Nigdi, Pune - 411044",
+      "Contact1": 7947201277,
+      "Contact2": ""
+    },
+    {
+      "id": 18,
+      "title": "Unique Enterprises",
+      "district": "Pune",
+      "Address": "Shop No-c-09, Juna Bazar, Mangalwar Peth, Pune - 411011, Near-new Maharastra Canvas Depot",
+      "Contact1": 7947197694,
+      "Contact2": ""
+    },
+    {
+      "id": 19,
+      "title": "Kuldeep E Waste Disposals",
+      "district": "Pune",
+      "Address": "Survey No 66, Katraj, Pune - 411046, Santosh Nagar, Near Jain Mandir, Next to Aagam Temple, Near Aayyapa Temple",
+      "Contact1": 7947194432,
+      "Contact2": ""
+    },
+    {
+      "id": 20,
+      "title": "Sathe Scrap Center",
+      "district": "Pune",
+      "Address": "Lane No 10, Patil Estate, Pune Bombay Highway, Shivaji Nagar, Pune - 411005, Near Masjid and New Bridge",
+      "Contact1": 8045797861,
+      "Contact2": ""
+    },
+    {
+      "id": 21,
+      "title": "Pranam Enterprises",
+      "district": "Pune",
+      "Address": "Office No 10 Vastushree Complex Hyde Park Soc, Market Yard, Pune - 411037, Near Vinayak Hospital",
+      "Contact1": 7947195194,
+      "Contact2": ""
+    },
+    {
+      "id": 22,
+      "title": "A G Enterprises",
+      "district": "Pune",
+      "Address": "Gate No 815, Kudalwadi, Chikhali, Pune - 411062, Pawar Wasti",
+      "Contact1": 9822783051,
+      "Contact2": ""
+    },
+    {
+      "id": 23,
+      "title": "Swach Pune Seva Sahakari Sanstha Limited",
+      "district": "Pune",
+      "Address": "Tilak Road, Sadashiv Peth, Pune - 411030, 3rd Floor, Above State Bank Of India",
+      "Contact1": 2065000817,
+      "Contact2": 7030902010
+    },
+    {
+      "id": 24,
+      "title": "Shree Recyclers",
+      "district": "Pune",
+      "Address": "321C, KPCT Mall, Shivarkar Road, Fatima Nagar-Wanowrie, Pune - 411040, Nr. Inaamdar Hospital,Beside KPCT Mall",
+      "Contact1": 9405576699,
+      "Contact2": ""
+    },
+    {
+      "id": 25,
+      "title": "EcoTantra LLP",
+      "district": "Pune",
+      "Address": "Pune - 411002",
+      "Contact1": 7588019766,
+      "Contact2": ""
+    },
+    {
+      "id": 26,
+      "title": "Suritex E-Waste Recyclers",
+      "district": "Nagpur",
+      "Address": "Plot No 5/6, Zal Complex, Residency Road, Sadar Bazar, Nagpur - 440001, Opposite SFS School",
+      "Contact1": 7122551347,
+      "Contact2": 9049981347
+    },
+    {
+      "id": 27,
+      "title": "Nagraj E-Waste Collectors",
+      "district": "Nagpur",
+      "Address": "Survey No 41, Teka Naka, Nagpur - 440002, Near K John Public School Village Asoli Mauza Mahalgaon Taluka Kamptee",
+      "Contact1": 712761247,
+      "Contact2": 7947468419
+    },
+    {
+      "id": 28,
+      "title": "Eco Centric Management Pvt Ltd.",
+      "district": "Nagpur",
+      "Address": "Plot No 57 Nelco Society, Jaitala Road, Subhash Nagar, Nagpur - 440022, Opposite MSEB Godown",
+      "Contact1": 7122237093,
+      "Contact2": 9730188126
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+h6{
+    width: 100%;
+	background: #4CAF50;
+	padding: 20px 30px 15px 30px;
+	margin: -30px -30px 30px -30px;
+	border-radius: 10px;
+	-webkit-border-radius: 10px;
+	-moz-border-radius: 10px;
+	color: #fff;
+	text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.12);
+	font: normal 30px 'Bitter', serif;
+	-moz-box-shadow: inset 0px 2px 2px 0px rgba(255, 255, 255, 0.17);
+	-webkit-box-shadow: inset 0px 2px 2px 0px rgba(255, 255, 255, 0.17);
+	box-shadow: inset 0px 2px 2px 0px rgba(255, 255, 255, 0.17);
+	border: 1px solid #257C9E;
+}
+.joinuspage{
+  padding: 1rem 1rem 1rem 2rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+}
+.joinusform{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width:60%;
+	padding:10px;
+	margin:50px;
+	background: #FFF;
+	border-radius: 10px;
+	-webkit-border-radius:10px;
+	-moz-border-radius: 10px;
+	box-shadow: 0px 0px 20px rgba(76,175,80);
+	-moz-box-shadow: 0px 0px 20px rgba(76,175,80);
+	-webkit-box-shadow: 0px 0px 20px rgba(76,175,80);
+}
+input[type=text]{
+    width: 40%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    border: 2px solid #4CAF50;
+   
+  }
+  
+  
+button[type=submit] {
+    width: 70%;
+    background-color: #4CAF50;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+button[type=submit]:hover {
+    background-color: #185d1b;
+  }
