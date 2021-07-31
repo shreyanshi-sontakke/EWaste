@@ -2,7 +2,6 @@ import React, { Component} from 'react'
 import { Table } from 'react-bootstrap';
 import './comp.css';
 
-//comment to push
 
 class Cities extends Component {
     constructor() {

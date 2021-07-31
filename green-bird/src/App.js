@@ -6,6 +6,7 @@ import Contact from './Components/Contact';
 import JoinUs from './Components/JoinUs';
 import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
 import Nav from './Components/Nav';
+import Blog from './Components/Blog';
 
 
 
@@ -21,6 +22,7 @@ function App()
           <Route path="/about" component={About}></Route>
           <Route path="/contact" component={Contact}></Route>
           <Route path="/JoinUs" component={JoinUs}></Route>
+          <Route path="/blog" component={Blog}></Route>
         </Switch>
       </div>
     </Router>

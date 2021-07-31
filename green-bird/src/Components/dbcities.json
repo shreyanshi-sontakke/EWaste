@@ -1,4 +1,4 @@
-[ 
+{"cities-covered" : [ 
     {
         "id":1,
         "link":"abd.html",
@@ -20,4 +20,4 @@
         "city": "Pune",
         "no":9
     }
-]
+]}

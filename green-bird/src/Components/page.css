@@ -7,7 +7,11 @@ div[class*=box] {
 }
 .box-1 { background-color: transparent;
 }
+
+.input-group-mb-3{
   
+  width: 630px;
+}
   .btn {
     line-height:35px;
     height: 50px;
@@ -15,6 +19,7 @@ div[class*=box] {
     width: 250px;
     cursor: pointer;
   }
+
   .btn-one {
     color: rgb(0, 0, 0);
     transition: all 0.3s;
@@ -75,19 +80,45 @@ div[class*=box] {
       top: 90vh;
       
   }
-  #lowerSection{
-    position: absolute;
-    top:100vh;
-    font-size: medium;
-    padding: 5%;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-  }
-.para{
-  padding: 5%;
-  margin-bottom: 10%;
-  box-shadow: rgba(6, 24, 44, 0.4) 0px 0px 0px 2px, rgba(6, 24, 44, 0.65) 0px 4px 6px -1px, rgba(255, 255, 255, 0.08) 0px 1px 0px inset;
-  width:60%;
+
+.nextButton{
+  padding: 3px 20px;
+  font-size: 18px;
+  text-align: center;
+  cursor: pointer;
+  outline: none;
+  color: #fff;
+  background-color: #2ebb58;
+  border: none;
+  border-radius: 8px;
+  box-shadow: 5px #999;
+}
+.nextButton:hover {background-color: #3e8e41}
+
+.nextButton:active {
+  background-color: #3e8e41;
+  box-shadow: 0 2px #666;
+  transform: translateY(4px);
 }
 
+
+/* The Close Button */
+.closeButton {
+  color: rgb(121, 241, 121);
+  float: right;
+  font-size: 24px;
+  border-radius: 8px;
+  background-color: #04AA6D;
+  font-weight: bold;
+}
+
+.closeButton:hover,
+.close:focus {
+  color: rgb(31, 114, 63);
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.output {
+  margin-top: 10px;
+}
